@@ -1,0 +1,4 @@
+user.crt
+auth.crt
+/target/
+**/*.rs.bk
